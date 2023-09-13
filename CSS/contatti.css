@@ -59,6 +59,7 @@ section {
 
 .questionario {
     margin-top: 50px;
+   
 }
 
 form {
@@ -67,6 +68,8 @@ form {
     background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
+    
+    margin: 8%;
 }
 form h2,p {
     color: #000000;
@@ -89,8 +92,11 @@ input[type=submit]{
     border-radius: 10px;
 }
 .info{
-    margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 70px;
+    margin-right: 20px;
+  
+    
+   
 }
 .info p{
     color: #ffffff;
